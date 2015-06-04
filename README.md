@@ -6,27 +6,35 @@ CIT360 Course
 The Collection Interfaces:
 
 1) The Collection Interface
+
   Example
 
 2) The List Interface
+
   Example
 
 3) The Set
+
   Example
 
 4) The Sorted Set
+
   Example
 
 5) The Map
+
   Example
 
 6) The Map.Entry
+
   Example
 
 7) The SortedMap
+
   Example
 
 8) The Enumeration
+
   Example
 
 
