@@ -7,35 +7,35 @@ The Collection Interfaces:
 
 1) The Collection Interface
 
-  Example
+  • Example
 
 2) The List Interface
 
-  Example
+  • Example
 
 3) The Set
 
-  Example
+  • Example
 
 4) The Sorted Set
 
-  Example
+  • Example
 
 5) The Map
 
-  Example
+  • Example
 
 6) The Map.Entry
 
-  Example
+  • Example
 
 7) The SortedMap
 
-  Example
+  • Example
 
 8) The Enumeration
 
-  Example
+  • Example
 
 
 The Collection Classes:
