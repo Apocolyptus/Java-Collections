@@ -1,0 +1,20 @@
+The Map.Entry Interface
+
+The Map.Entry interface enables you to work with a map entry. The entrySet( ) method declared by the Map interface returns a Set containing the map entries. Each of these set elements is a Map.Entry object.
+
+It includes the following methods:
+
+boolean equals(Object obj)
+Returns true if obj is a Map.Entry whose key and value are equal to that of the invoking object
+
+Object getKey( )
+Returns the key for this map entry
+
+Object getValue( )
+Returns the value for this map entry
+
+int hashCode( )
+Returns the hash code for this map entry
+
+Object setValue(Object v)
+Sets the value for this map entry to v. A ClassCastException is thrown if v is not the correct type for the map. A NullPointerException is thrown if v is null and the map does not permit null keys. An UnsupportedOperationException is thrown if the map cannot be changed
