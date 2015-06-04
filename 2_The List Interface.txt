@@ -32,7 +32,7 @@ Object remove(int index)
 Removes the element at position index from the invoking list and returns the deleted element. The resulting list is compacted. That is, the indexes of subsequent elements are decremented by one
 
 Object set(int index, Object obj)
-Assigns obj to the location specified by index within the invoking list.
+Assigns obj to the location specified by index within the invoking list
 
 List subList(int start, int end)
 Returns a list that includes elements from start to end.1 in the invoking list. Elements in the returned list are also referenced by the invoking object.
