@@ -1,9 +1,9 @@
-#### Java-Collections
+# Java-Collections
 
 ##CIT360 Course
 
 
-#**The Collection Interfaces:**
+###**The Collection Interfaces:**
 
 1) [The Collection Interface] (1_The Collection Interface.txt)
 
