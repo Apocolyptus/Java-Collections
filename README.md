@@ -1,9 +1,9 @@
-# Java-Collections
+#### Java-Collections
 
-CIT360 Course
+##CIT360 Course
 
 
-The Collection Interfaces:
+#**The Collection Interfaces:**
 
 1) [The Collection Interface] (1_The Collection Interface.txt)
 
@@ -38,7 +38,7 @@ The Collection Interfaces:
   • [Example] (enumerationExample.js)
 
 
-The Collection Classes:
+#**The Collection Classes:**
 
 
 1) [AbstractCollection] ()
