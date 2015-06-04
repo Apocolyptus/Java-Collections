@@ -1,0 +1,23 @@
+The SortedMap Interface
+
+The SortedMap interface extends Map. It ensures that the entries are maintained in ascending key order. Several methods throw a NoSuchElementException when no items are in the invoking map. A ClassCastException is thrown when an object is incompatible with the elements in a map. A NullPointerException is thrown if an attempt is made to use a null object when null is not allowed in the map.
+
+It includes the following methods:
+
+Comparator comparator( )
+Returns the invoking sorted map's comparator. If the natural ordering is used for the invoking map, null is returned
+
+Object firstKey( )
+Returns the first key in the invoking map
+
+SortedMap headMap(Object end)
+Returns a sorted map for those map entries with keys that are less than end
+
+Object lastKey( )
+Returns the last key in the invoking map
+
+SortedMap subMap(Object start, Object end)
+Returns a map containing those entries with keys that are greater than or equal to start and less than end
+
+SortedMap tailMap(Object start)
+Returns a map containing those entries with keys that are greater than or equal to start
