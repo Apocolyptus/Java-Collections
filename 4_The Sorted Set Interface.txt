@@ -5,19 +5,19 @@ The Sorted Set interface extends Set and declares the behavior of a set sorted i
 It includes the following methods:
 
 Comparator comparator( )
-Returns the invoking sorted set's comparator. If the natural ordering is used for this set, null is returned.
+Returns the invoking sorted set's comparator. If the natural ordering is used for this set, null is returned
 
 Object first( )
-Returns the first element in the invoking sorted set.
+Returns the first element in the invoking sorted set
 
 SortedSet headSet(Object end)
-Returns a SortedSet containing those elements less than end that are contained in the invoking sorted set. Elements in the returned sorted set are also referenced by the invoking sorted set.
+Returns a SortedSet containing those elements less than end that are contained in the invoking sorted set. Elements in the returned sorted set are also referenced by the invoking sorted set
 
 Object last( )
-Returns the last element in the invoking sorted set.
+Returns the last element in the invoking sorted set
 
 SortedSet subSet(Object start, Object end)
-Returns a SortedSet that includes those elements between start and end.1. Elements in the returned collection are also referenced by the invoking object.
+Returns a SortedSet that includes those elements between start and end.1. Elements in the returned collection are also referenced by the invoking object
 
 SortedSet tailSet(Object start)
-Returns a SortedSet that contains those elements greater than or equal to start that are contained in the sorted set. Elements in the returned set are also referenced by the invoking object.
+Returns a SortedSet that contains those elements greater than or equal to start that are contained in the sorted set. Elements in the returned set are also referenced by the invoking object
