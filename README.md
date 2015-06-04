@@ -5,82 +5,98 @@ CIT360 Course
 
 The Collection Interfaces:
 
-1) [The Collection Interface] (master/collectionExample.js)
+1) [The Collection Interface] (1_The Collection Interface.txt)
 
-  • [Example] (master/collectionExample.js)
+  • [Example] (collectionExample.js)
 
-2) The List Interface
+2) [The List Interface] (2_The List Interface.txt)
 
-  • Example
+  • [Example] (interfaceExample.js)
 
-3) The Set
+3) [The Set] (3_The Set.txt)
 
-  • Example
+  • [Example] (setExample.js)
 
-4) The Sorted Set
+4) [The Sorted Set] (4_The Sorted Set.txt)
 
-  • Example
+  • [Example] (sortedSetExample.js)
 
-5) The Map
+5) [The Map] (5_The Map.txt)
 
-  • Example
+  • [Example] (mapExample.js)
 
-6) The Map.Entry
+6) [The Map.Entry] (6_The Map.Entry.txt)
 
-  • Example
+  • [Example] (mapEntryExample.js)
 
-7) The SortedMap
+7) [The SortedMap] (7_The SortedMap.txt)
 
-  • Example
+  • [Example] (sortedMapExample.js)
 
-8) The Enumeration
+8) [The Enumeration] (8_The Enumeration.txt)
 
-  • Example
+  • [Example] (enumerationExample.js)
 
 
 The Collection Classes:
 
-1) AbstractCollection
-  Example
 
-2) AbstractList
-  Example
+1) [AbstractCollection] ()
 
-3) AbstractSequentialList
-  Example
+  • [Example] (abstractCollectionExample.js)
 
-4) LinkedList
-  Example
+2) [AbstractList] ()
 
-5) ArrayList
-  Example
+  • [Example] (abstractListExample.js)
 
-6) AbstractSet
-  Example
+3) [AbstractSequentialList] ()
 
-7) HashSet
-  Example
+  • [Example] (abstractSequentialListExample.js)
 
-8) LinkedHashSet
-  Example
+4) [LinkedList] ()
 
-9) TreeSet
-  Example
+  • [Example] (linkedListExample.js)
 
-10) AbstractMap
-  Example
+5) [ArrayList] ()
 
-11) HashMap
-  Example
+  • [Example] (arrayListExample.js)
 
-12) TreeMap
-  Example
+6) [AbstractSet] ()
 
-13) WeakHashMap
-  Example
+  • [Example] (abstractSetExample.js)
+
+7) [HashSet] ()
+
+  • [Example] (hashSetExample.js)
+
+8) [LinkedHashSet] ()
+
+  • [Example] (linkedHashSetExample.js)
+
+9) [TreeSet] ()
+
+  • [Example] (treeSetExample.js)
+
+10) [AbstractMap] ()
+
+  • [Example] (abstractMapExample.js)
+
+11) [HashMap] ()
+
+  • [Example] (hashMapExample.js)
+
+12) [TreeMap] ()
+
+  • [Example] (treeMapExample.js)
+
+13) [WeakHashMap] ()
+
+  • [Example] (weakHashMapExample.js)
   
-14) LinkedHashMap
-  Example
+14) [LinkedHashMap] ()
 
-15) IdentityHashMap
-  Example
+  • [Example] (linkedHashMapExample.js)
+
+15) [IdentityHashMap] ()
+
+  • [Example] (identityHashMapExample.js)
