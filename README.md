@@ -5,9 +5,9 @@ CIT360 Course
 
 The Collection Interfaces:
 
-1) The Collection Interface
+1) [The Collection Interface] (master/collectionExample.js)
 
-  • Example
+  • [Example] (master/collectionExample.js)
 
 2) The List Interface
 
