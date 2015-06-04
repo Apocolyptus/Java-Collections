@@ -13,27 +13,27 @@
 
   • [Example] (interfaceExample.js)
 
-3) [The Set] (3_The Set.txt)
+3) [The Set] (3_The Set Interface.txt)
 
   • [Example] (setExample.js)
 
-4) [The Sorted Set] (4_The Sorted Set.txt)
+4) [The Sorted Set] (4_The Sorted Set Interface.txt)
 
   • [Example] (sortedSetExample.js)
 
-5) [The Map] (5_The Map.txt)
+5) [The Map] (5_The Map Interface.txt)
 
   • [Example] (mapExample.js)
 
-6) [The Map.Entry] (6_The Map.Entry.txt)
+6) [The Map.Entry] (6_The Map.Entry Interface.txt)
 
   • [Example] (mapEntryExample.js)
 
-7) [The SortedMap] (7_The SortedMap.txt)
+7) [The SortedMap] (7_The SortedMap Interface.txt)
 
   • [Example] (sortedMapExample.js)
 
-8) [The Enumeration] (8_The Enumeration.txt)
+8) [The Enumeration] (8_The Enumeration Interface.txt)
 
   • [Example] (enumerationExample.js)
 
