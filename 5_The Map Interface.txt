@@ -13,7 +13,7 @@ void clear( )
 Removes all key/value pairs from the invoking map
 
 boolean containsKey(Object k)
-Returns true if the invoking map contains k as a key. Otherwise, returns false.
+Returns true if the invoking map contains k as a key. Otherwise, returns false
 
 boolean containsValue(Object v)
 Returns true if the map contains v as a value. Otherwise, returns false
