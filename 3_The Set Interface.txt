@@ -2,7 +2,7 @@ The Set Interface
 
 A Set is a Collection that cannot contain duplicate elements. It models the mathematical set abstraction.The Set interface contains only methods inherited from Collection and adds the restriction that duplicate elements are prohibited. Set also adds a stronger contract on the behavior of the equals and hashCode operations, allowing Set instances to be compared meaningfully even if their implementation types differ.
 
-The following methods that are declared by a Set are as follows:
+It includes the following methods:
 
 add( )
 Adds an object to the collection
